@@ -10,3 +10,11 @@ Telegram bot with gpt chat and payment
  * Ключ API Yoomoney
  * Номер кошелька Yoomoney
 2. Запустите бота, запустив файл bot.py.
+
+
+# Комманды бота
+* /account - информация об аккануте
+* /role - выбор роли для бота
+* /clear - очистить контекст бота
+* /payment - проверить оплату
+* /settings - выбор модели gpt
