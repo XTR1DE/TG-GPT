@@ -9,7 +9,9 @@ Telegram bot with gpt chat and payment
  * Токен Telegram-бота
  * Ключ API Yoomoney
  * Номер кошелька Yoomoney
-2. Запустите бота, запустив файл bot.py.
+2.
+Скачайте все библиотеки - pip install g4f python-dotenv pyTelegramBotAPI curl_cffi yoomoney
+Запустите бота, запустив файл bot.py.
 
 
 # Комманды бота
